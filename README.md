@@ -4,11 +4,11 @@
   
 - A little more about me...
 - Me
-- Name: Moritz
-- Born: 19 years ago
-- Death: Invalid Date
-- Discord: sTemm1
-- Nationality: German
+ ⊢ Name: Moritz
+ ⊢ Born: 19 years ago
+ ⊢ Death: Invalid Date
+ ⊢ Discord: sTemm1
+ ⊢ Nationality: German
 
 - Hobbies
 - Coding
