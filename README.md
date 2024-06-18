@@ -1,26 +1,26 @@
-- 👋 Hi, I’m Moritz!
-- 👀 I’m interested in Programing, Bikeing, Watersports, Gaming
-- 📫 How to reach me https://discord.gg/uShPwmEtFM
+👋 Hi, I’m Moritz!<br />
+👀 I’m interested in Programing, Bikeing, Watersports, Gaming<br />
+📫 How to reach me https://discord.gg/uShPwmEtFM<br />
   
-- A little more about me...
-- Me
- ⊢ Name: Moritz
- ⊢ Born: 19 years ago
- ⊢ Death: Invalid Date
- ⊢ Discord: sTemm1
- ⊢ Nationality: German
+A little more about me...<br />
+Me<br />
+ ⊢ Name: Moritz<br />
+ ⊢ Born: 19 years ago<br />
+ ⊢ Death: Invalid Date<br />
+ ⊢ Discord: sTemm1<br />
+ ⊢ Nationality: German<br />
 
-- Hobbies
-- Coding
-- Music
-- Bikeing
-- Watersports
-- Gaming
+Hobbies<br />
+ ⊢ Coding<br />
+ ⊢ Music<br />
+ ⊢ Bikeing<br />
+ ⊢ Watersports<br />
+ ⊢ Gaming<br />
 
-- Favs (in order)
-- Countries: Greece, Switzerlands, Austria, Germany
-- Languages, Slangs, Libraries etc.:
-- Languages: English, German
+Favs (in order)<br />
+ ⊢ Countries: Greece, Switzerlands, Austria, Germany<br />
+ ⊢ Languages, Slangs, Libraries etc.:<br />
+ ⊢ Languages: English, German<br />
 
 <!---
 Stemmi20/Stemmi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
