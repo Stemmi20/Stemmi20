@@ -19,7 +19,7 @@ Hobbies<br />
 
 Favs (in order)<br />
  ⊢ Countries: Greece, Switzerlands, Austria, Germany<br />
- ⊢ Languages, Slangs, Libraries etc.:<br />
+ ⊢ Languages, Slangs, Libraries etc.: Svelte, Typescript, Java<br />
  ⊢ Languages: English, German<br />
 
 <!---
